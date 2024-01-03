@@ -1,6 +1,6 @@
 # password-generator
 
-预览地址：https://mrjooz.github.io/password-generator/
+预览地址：https://enixmeng.github.io
 
 ## password-generator 是什么？
 
